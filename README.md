@@ -1,12 +1,12 @@
 <div align="center">
 
-## Its_me_Amal 
+## Its_me_diyamol 
 
 <div align="center">
   <img src=https://www.linkpicture.com/q/FB_IMG_1626722366727.jpg>
 
-## 📢 Guide
-Click WA logo to Join Support Group 👇
+## ðŸ“¢ Guide
+Click WA logo to Join Support Group ðŸ‘‡
     <br>
 <br>
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Lvtl7GqERfP19Na6wndX)
@@ -22,7 +22,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cyberchekuthan/Amalser_v1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/anzilgamingyt1/diyamol)
      </div>
 <br>
 <br >
@@ -31,10 +31,10 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 bash <(curl -L https://t.ly/tHxh)
 ``` 
   
-### Its_me_Amal
+### Its_me_diyamol
 
 
-### ⚠️ Warning! 
+### âš ï¸ Warning! 
 ```
 Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
@@ -45,11 +45,11 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Amalser](<img src=https://www.linkpicture.com/q/FB_IMG_1626722366727.jpgu>
- https://github.com/Amalser_v1 |  
+  [![diyamol](<img src=https://www.linkpicture.com/q/FB_IMG_1626722366727.jpgu>
+ https://github.com/diyamol |  
 ----|
-[Its_me_Amal](https://github.com/Amalser_v1)  |
-Base, Bug Fixes, Modules | 
+[Its_me_diyamol](https://github.com/diyamol)  |
+Base, Bug Fixes, Modules |Â 
   
     
 
