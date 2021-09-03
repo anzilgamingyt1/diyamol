@@ -1,4 +1,4 @@
-/* Codded by @Amalser
+/* Codded by @DiyaMol
 */
 
 const Asena = require('../events');
@@ -20,11 +20,11 @@ Asena.addCommand({pattern: 'list', fromMe: false, desc: Lang.WP}, (async (messag
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦𝔸𝕞𝕒𝕝𝕤𝕖𝕣❤️⃝➤⃟̱̱̱̱̄̄̄̄𝕤𝕞𝕒𝕣𝕥 𝕓𝕠𝕥⛦
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦DiyaMol❤️⃝➤⃟̱̱̱̱̄̄̄̄𝕤𝕞𝕒𝕣𝕥 𝕓𝕠𝕥⛦
 
 
 💟𝗠𝗲         💠_𝙒𝙝𝙖𝙩𝙨𝙖𝙥𝙥 𝙪𝙨𝙚𝙧 𝙗𝙤𝙩 
-💟𝗢𝘄𝗻𝗲𝗿  💠 𝘼𝙢𝙖𝙡𝙨𝙚𝙧
+💟𝗢𝘄𝗻𝗲𝗿  💠 DiyaMol
 💟𝗩𝗲𝗿𝘀𝗶𝗼𝗻💠_1.32 𝙂𝙡𝙤𝙗𝙡𝙚
 💟𝗛���𝘀𝘁𝗲𝗱 💠𝙃𝙚𝙧𝙤𝙠𝙪 
 
@@ -37,27 +37,27 @@ Asena.addCommand({pattern: 'list', fromMe: false, desc: Lang.WP}, (async (messag
         ✅_.deepai
         ✅_.effects
         ✅_.vava
-        ✅_.amalser
+        ✅_.DiyaMol
 ══════════════════
 
 ➣:𝙉𝙀𝙀𝘿 𝙏𝙊 𝙈𝘼𝙆𝙀 𝘽𝙊𝙏 𝙇𝙄𝙆𝙀 𝘼𝙎 𝙈𝙀🥺
 
-⭕➣https://github.com/cyberchekuthan/Amalser_v1
+⭕➣https://github.com/anzilgamingyt1/diyamol
 
 ➣:𝙎𝙐𝘽𝙎𝘾𝙍𝙄𝘽𝙀 𝙊𝙐𝙍 𝘾𝙃𝘼𝙉𝙉𝙀𝙇
 
-⭕➣https://youtu.be/eezGqQj9gQ4
+⭕➣https://youtu.be/XtHMGrQbAko
 
 ➣:𝙈𝘼𝙄𝙉 𝙂𝙍𝙊𝙐𝙋𝙎
 
-⭕➣https://chat.whatsapp.com/DHYuPadEvEw4wvs93NtL6n
+⭕➣https://chat.whatsapp.com/DHYuPadEvEw4wv3NtL6n
 
-⭕➣https://chat.whatsapp.com/Lvtl7GqERfP19Na6M2wndX
+⭕➣https://chat.whatsapp.com/Lvtl7GqERfP19Na2wndX
 
 
 ➣:𝙊𝙐𝙍 𝙀𝘿𝙐𝘾𝘼𝙏𝙄𝙊𝙉𝘼𝙇 𝙂𝙍𝙊𝙐𝙋
 
-⭕➣https://chat.whatsapp.com/DHYuPadEvEw4wvs93NtL6n
+⭕➣https://chat.whatsapp.com/DHYuPadEvEw4wv3NtL6n
 
 ➣:𝙍𝙐𝙇𝙀𝙎
 
@@ -66,22 +66,22 @@ Asena.addCommand({pattern: 'list', fromMe: false, desc: Lang.WP}, (async (messag
 
 ➣:𝙊𝙒𝙉𝙀𝙍
 
-⭕➣https://wa.me/message/919895828468
+⭕➣https://wa.me/message/919562064987
 
 ➣:𝘾𝙊𝘿𝙀𝘿 𝘽𝙔
 
-⭕➣𝘼𝙢𝙖𝙡𝙨𝙚𝙧
+⭕➣DiyaMol
 
 ➣:𝙂𝙄𝙏𝙃𝙐𝘽
 
-⭕➣https://github.com/cyberchekuthan/Amalser_v1
+⭕➣https://github.com/anzilgamingyt1/diyamol
 
 ══════════════════
 ➣𝘾𝙊𝙈𝙈𝘼𝙉𝘿 𝙇𝙄𝙎𝙏𝙎
 
 ⭕➣.𝐡𝐞𝐥𝐩
 ⭕➣.𝐚𝐥𝐢𝐯𝐞
-⭕➣.𝙖𝙢𝙖𝙡𝙨𝙚𝙧
+⭕➣.DiyaMol
 ⭕➣.𝐝𝐞𝐞𝐩𝐚𝐢
 ⭕➣.𝐱𝐦𝐞𝐝𝐢𝐚
 ⭕➣.𝙑𝙖𝙫𝙖
@@ -89,7 +89,7 @@ Asena.addCommand({pattern: 'list', fromMe: false, desc: Lang.WP}, (async (messag
 
 ➣𝙎𝙋𝙀𝘾𝙄𝘼𝙇 𝘾𝙊𝙈𝙈𝘼𝙉𝘿
 
-⭕➣.𝙖𝙢𝙖𝙡
+⭕➣.DiyaMol
 
 ════════════════════
 ➣𝙈𝙀𝘿𝙄𝘼 𝘾𝙊𝙈𝙈𝘼𝙉𝘿𝙎
