@@ -17,12 +17,12 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━💘Amal ser💘━━━━━⛦
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━💘DiyaMol💘━━━━━⛦
 
 
-𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 Amalser 𝐛𝐨𝐭.
+𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 DiyaMol 𝐛𝐨𝐭.
   
-*http://ẉa.me/➳Amal*
+*http://ẉa.me/➳DiyaMol*
 
 ■□■□■□■□■□■□■□■□■□■□
 💘 *𝙈𝙚𝙙𝙞𝙖 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* 💘
@@ -79,7 +79,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 🧸𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -wallpaper
 🎧𝙐𝙨𝙚➜ It sends you random wallpaper.
 
-■□■□■□■□■□Amal💘■□■□■□■□■□
+■□■□■□■□■□DiyaMol💘■□■□■□■□■□
 ♟ *𝙁𝙪𝙣 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♟
 
 🧸𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -joke 
@@ -109,7 +109,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 🧸𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -dict 
 🎧𝙐𝙨𝙚➜   Dictionary [-dict en;anime]
 
-🧸𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -amalser <leo> 
+🧸𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -DiyaMol <leo> 
 🎧𝙐𝙨𝙚➜   variety effects 💘
 
 🧸𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -qr <text>
@@ -121,8 +121,8 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
 🧸𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -anime <text>
 🎧𝙐𝙨𝙚➜  Gives you info about anime.
-🎯anime amalser
-■□■□■□■□■Amalser□■□■□■□■□■□
+🎯anime DiyaMol
+■□■□■□■□■DiyaMol□■□■□■□■□■□
 ♝ *𝙎𝙩𝙞𝙘𝙠𝙚𝙧 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♝
 
 🧸𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -sticker 
@@ -133,10 +133,10 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
 🧸𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -attp <text>
 🎧𝙐𝙨𝙚➜ Converts text into glowing sticker.
-🎯ex  attp amalser
+🎯ex  attp DiyaMol
 ■□■□■□■□■□■□■□■□■□■□
-═════💢Amalser💢═════
-▣▣▣▣▣▣▣▣▣💘Amalser💘▣▣▣▣▣▣▣▣▣▣▣
+═════💢DiyaMol💢═════
+▣▣▣▣▣▣▣▣▣💘DiyaMol💘▣▣▣▣▣▣▣▣▣▣▣
 
 `}) 
 
