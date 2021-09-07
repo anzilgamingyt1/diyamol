@@ -13,7 +13,7 @@ Asena.addCommand({pattern: 'list', fromMe: false, desc: Lang.WP}, (async (messag
     var r_text = new Array ();
     
     
-    r_text[0] = "https://www.linkpicture.com/q/IMG-20210629-WA0181.jpg";
+    r_text[0] = "https://www.linkpicture.com/q/PicsArt_09-02-10.33.23_1.jpg";
     
     
     var i = Math.floor(1*Math.random())
@@ -50,14 +50,14 @@ Asena.addCommand({pattern: 'list', fromMe: false, desc: Lang.WP}, (async (messag
 
 ➣:𝙈𝘼𝙄𝙉 𝙂𝙍𝙊𝙐𝙋𝙎
 
-⭕➣https://chat.whatsapp.com/DHYuPadEvEw4wv3NtL6n
+⭕➣https://chat.whatsapp.com/DHYudEvEw4wv3NtL6n
 
-⭕➣https://chat.whatsapp.com/Lvtl7GqERfP19Na2wndX
+⭕➣https://chat.whatsapp.com/LvtqERfP19Na2wndX
 
 
 ➣:𝙊𝙐𝙍 𝙀𝘿𝙐𝘾𝘼𝙏𝙄𝙊𝙉𝘼𝙇 𝙂𝙍𝙊𝙐𝙋
 
-⭕➣https://chat.whatsapp.com/DHYuPadEvEw4wv3NtL6n
+⭕➣https://chat.whatsapp.com/DHYdEvEw4wv3NtL6n
 
 ➣:𝙍𝙐𝙇𝙀𝙎
 
